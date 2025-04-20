@@ -1,11 +1,10 @@
 # HVAC Control Dashboard – Panasonic Collaboration Case Study
 
 ![Project Type](https://img.shields.io/badge/Project-Industry%20Collaboration-blue)
-![Role](https://img.shields.io/badge/Role-UI%20%26%20Data%20Visualization-green)
+![Role](https://img.shields.io/badge/Role-UI%20%26%20Data%20Visualisation-green)
 ![Frontend](https://img.shields.io/badge/Frontend-Svelte.js-red)
 ![3D UI](https://img.shields.io/badge/Visualization-Three.js-orange)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-yellow)
-![Platform](https://img.shields.io/badge/Platform-IoT%20Simulator-lightgrey)
 ![Tools](https://img.shields.io/badge/Tools-Docker%20%7C%20WebSocket-blueviolet)
 
 
